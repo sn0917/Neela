@@ -11,7 +11,7 @@ public class Student {
 		public void var1()
 			
 		{
-			System.out.println("welcome to All of you ");
+			System.out.println("welcome to All of you Thank ");
 		}
 		
 		public void var2()
